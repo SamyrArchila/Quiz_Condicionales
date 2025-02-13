@@ -12,5 +12,15 @@ c = int(input("Ingrese el valor correspondiente al tercer lado del triangulo"))
 
 
 # processing
+def es_triangulo(a, b, c):
+    # Verifica si se cumplen las desigualdades triangulares
+    if (a + b > c) and (a + c > b) and (b + c > a):
+        return True
+    return False
 
 # output
+
+if es_triangulo(a, b, c):
+        print("Los lados pueden formar un triángulo.")
+else:
+        print("Los lados no pueden formar un triángulo.")

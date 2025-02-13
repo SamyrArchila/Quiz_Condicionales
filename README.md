@@ -11,18 +11,15 @@ b = longitud del segundo lado del triangulo
 
 c = longitud del tercer lado del triangulo
 
+Para que tres longitudes puedan formar un triángulo, deben cumplirse las siguientes condiciones (conocidas como las desigualdades triangulares):
+1. La suma de los dos lados más cortos debe ser mayor que el tercer lado.
+2. Esta condición debe aplicarse a cada par de lados.
+
 En términos matemáticos:
 
 - \( a + b > c \)
 - \( a + c > b \)
 - \( b + c > a \)
-
-Para que tres longitudes puedan formar un triángulo, deben cumplirse las siguientes condiciones (conocidas como las desigualdades triangulares):
-1. La suma de los dos lados más cortos debe ser mayor que el tercer lado.
-2. Esta condición debe aplicarse a cada par de lados.
-
-
-
 
 ## DISEÑO
 
