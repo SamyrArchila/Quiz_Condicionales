@@ -112,12 +112,12 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="26" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;Si&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-                    <mxGeometry x="460" y="700" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="460" y="690" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 14px;&quot;&gt;b+c&amp;gt;a&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                <mxCell id="27" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;b+c&amp;gt;a&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
                     <mxGeometry x="440" y="820" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="27">
+                <mxCell id="28" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="26">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="500" y="830" as="sourcePoint"/>
                         <mxPoint x="500" y="780" as="targetPoint"/>
@@ -210,7 +210,7 @@
                         <mxPoint x="350" y="1310" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="44" value="&lt;font face=&quot;Georgia&quot;&gt;FIN&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+                <mxCell id="44" value="&lt;font face=&quot;Georgia&quot;&gt;Fin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
                     <mxGeometry x="290" y="1370" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;INICIO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
