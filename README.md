@@ -27,6 +27,6 @@ Para que tres longitudes puedan formar un triángulo, deben cumplirse las siguie
 ## DISEÑO
 
 ### Diagrama de flujo
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
 
 # Construccion
